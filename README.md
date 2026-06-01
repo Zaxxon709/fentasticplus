@@ -1,6 +1,6 @@
 # FENtastic Plus
 
-A fork of FENtastic. Credits to the developer (ivarbrandt)
+A fork of FENtastic. Credits to the developer (ivarbrandt)<br><br>
 
 
 ### Instructions for installing this repository without a source:
