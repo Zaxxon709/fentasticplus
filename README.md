@@ -1,10 +1,9 @@
-# 709 Builds
-
-
-### FENtastic Plus
+# FENtastic Plus
 
 A fork of FENtastic. Credits to the developer (ivarbrandt)
 
+
+# 709 Repository
 
 ### Instructions for installing this repository without a source:
 
