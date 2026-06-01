@@ -1,0 +1,107 @@
+Version 100.0.30d
+- Fix rebuilding menus after a skin update
+- Fix the 'No backups directory found' during back/restore or import/export activities
+
+Version 100.0.30c
+- Fixed an issue preventing fanart brightness adjustments from applying correctly
+- Added TorBox authentication support to the Authorize Services menu
+- Fixed Trakt authorization shortcuts for Fen Light and compatible forks
+- Added an Account Manager shortcut to the tools menu.
+- Added configurable widget limits (Keep in mind, TMDb-powered widgets are capped at 20 items due to TMDb API limitations)
+- Miscellaneous fixes and improvements
+
+Version 100.0.30b
+- Fixed a focus issue causing category selection to be lost when returning to the home screen.
+
+Version 100.0.30a
+- Added Red Light (FLAM fork by Red Wizard) to the list of search providers 
+- Added a first-run setup wizard to choose your preferred FENtastic experience:
+  1. Classic FENtastic
+  2. FENtastic Plus
+- Don’t worry, if you’re unhappy with your selection, you can change it at any time under Skin Settings → Options → Look & Feel.
+- Improved the search window Switch Provider option. When changing providers, the previously searched title is now automatically re-run using the newly selected provider.
+- Fixed search history re-search functionality
+- Fix Fen Light and Red Light Anime search results widget
+- Other Additions:
+  - You can now set or change the backup directory via Skin Settings → General
+  - Added an option to restore Default Skin Settings. This feature is located in Tools → Backup & Restore
+  - A selection of colour presets has been added. These are available under Skin Settings → Colours
+  - Added the option to disable main menu highlights 
+  - A few changes and additions to the Tools menu
+- Various minor fixes and improvements
+
+Version 100.0.30
+- Fix pre-config menu
+
+Version 100.0.29
+- Add Backup/Restore Favourites to tools menu
+- Added a few more pre-configs
+
+Version 100.0.28
+- Minor viewtype fixes
+
+Version 100.0.27
+- Fix open search window not being displayed
+- Fix search window busy spinner
+- Fix broken shortcuts in search dialog
+- Added a setting to enable/disable help text in search window
+- Added user config import/export functions to tools menu. Users can now export and easy share their configs with other users.
+- Added a setting to limit the search history list to 5, 10, 15, or 20 items
+- Updated search results window artwork
+- Added The Gears add-on to the list of supported add-ons. This is a Fen Light fork with no external player block and an updated set of external scrapers.
+- Added a Pre-Config for The Gears add-on
+- Fixed Fen Light/The Gears Anime widget
+- Other minor changes/fixes
+
+Version 100.0.26
+- Updated how Backup/Restore of user configs functions. Now skin settings is included in user config backups
+- Added a favourites shortcut to home top bar menu (Enable/Disable in Skin Settings/General)
+- Updated tools menu. Removed skin settings backup/restore shortcuts
+
+Version 100.0.25
+- A new tools menu is located on the home screen top bar (Enable/Disable in Skin Settings/General)
+      Includes:
+      • Trakt & Debrid authorization for supported add-ons
+      • Apply MDbList API Key to skin
+      • Apply MDbList API Key to TMDbH
+      • Youtube Sign-In shortcut
+      • Clean packages
+      • Clean Thumbnails
+      • Clear cache for supported video add-ons
+      • Pre-Configured Video Cache Configs
+      • Pre-Made Configurations for supported add-ons
+      • Backup/Restore GUI & Skin Settings
+      • Back/Restore Menu/Widgets
+- Fen Light Anime widget added to search results
+- Removed the actors/actresses widget from search results
+- Fix included to prevent home screen widgets from refreshing after exiting search results window
+- A help section was added to the search results left panel
+- Added the options to enable/disable
+      • Main menu icons (Enable/Disable in Skin Settings/Main Menu Items)
+      • Category icons (Skin settings/Category Widgets)
+      • Category labels (Skin settings/Category Widgets)
+      • Kodi splash (Enable/Disable in Skin Settings/General)
+- Updated search providers
+   Removed:
+      • Fen
+      • Seren
+   Added:
+      • TMDb Helper
+- Search shortcuts added to the search results window top bar
+      • Search Studios (TMDbH)
+      • Search actors (TMDbH, Fen Light, Umbrella, POV)
+      • Delete search history
+- Increased the number of custom main menu items from 3 to 6
+- Choose custom main menu icons (A large selection of icons are now included with the skin)
+- Choose custom home screen logos (Choose your logo in Skin Settings/Artwork)
+- Included an option to allow the user to adjust the rain drop animation brightness. Changed how raindrops are enabled/disabled. Now, when raindrops are enabled   fanart is auto disabled, and vice versa. 
+- Updated the main menu look/functionality and added new home screen artwork
+- Added a new view type (Poster Large)
+- Updated the default skin colors
+- Default power button behaviour now has 3 options (Force Close, Quit Kodi, Show Shutdown Menu)
+- Included some new backgrounds, set a default directory for backgrounds and a last viewed start point so the user is taken either directly to the backgrounds home directory or the last previously viewed directory.
+- When creating main menus there is now has an additional 'No Path' option listed in the dialog. This allows the creation of main menus that have no action when selected. The user can still label the menu as per normal.
+- Fixed bug that caused Landscape/Landscape Big view type icons to be covered/diffused when focused
+- Added pre-configured menu/widget setups for supported addons
+- Changed the name of the skin to FENtastic Plus. Kept the same plugin name 'skin.fentastic'
+- Enjoy! Credit to ivarbrandt for this skin!
