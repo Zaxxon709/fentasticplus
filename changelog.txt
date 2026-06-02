@@ -1,6 +1,9 @@
 Version 100.0.30d
 - Fix rebuilding menus after a skin update
 - Fix the 'No backups directory found' during back/restore or import/export activities
+- Added another fanart brightness setting (Lowest)
+- Included a setting to disable fanart for category widgets
+- Changed how user configs are backed up. These are now zipped for easier handling. If you have created any backups you should either zip or re-create them so they can be restored if needed
 
 Version 100.0.30c
 - Fixed an issue preventing fanart brightness adjustments from applying correctly
