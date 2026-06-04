@@ -1,3 +1,14 @@
+Version 100.0.30e
+- Menu builder now supports selecting from multiple paths instead of only Video Add-ons
+- Added an option to enable or disable widgets for stock main menu items
+- Empty sections in the Add-on Browser are now hidden by default
+- Added a large collection of playlists (credits to the Bingie skin developer for many of these)
+- Fixed an issue affecting main menu focus (thanks to Funsterbe for the report)
+- Improved custom background and logo path handling using Kodi special paths
+- Added Restore Default options for custom backgrounds and logos
+- Added more home screen background images
+- Cleaned up the Skin Settings menu
+
 Version 100.0.30d
 - Fix rebuilding menus after a skin update
 - Fix the 'No backups directory found' during back/restore or import/export activities
