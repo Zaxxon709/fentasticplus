@@ -1,3 +1,12 @@
+Version 100.0.30h
+- Fixed addon information formatting to prevent tags (e.g. [/B]) from appearing when add-on names, summaries, or descriptions already contained formatting
+- Added new Audio Language and Subtitle Language controls to the Video OSD, allowing quick cycling of available streams
+- Added a skin setting to display the video seek bar at the top or bottom of the screen when using left/right seek commands
+- Updated Logo and Background image selection to allow browsing outside the skin directory
+- Fixed a minor text formatting issue affecting the series status in the Video Information window
+- Increased the size of the Context Menu to display more items on screen
+- Added a dedicated Tools Menu configuration section to skin settings
+
 Version 100.0.30g
 - Fixed an issue where custom main menu icons could revert to default icons after applying a pre-configuration
 - Minor bug fix related to add-on install prompts during widgets refreshing
