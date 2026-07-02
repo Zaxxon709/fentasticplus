@@ -1,3 +1,16 @@
+Version 100.0.30j
+- Added some Video OSD customizations:
+  1. Option to use the default Estuary Video OSD experience
+  2. Configurable audio and subtitle button behavior
+  3. Top or bottom seek bar selection
+  4. Optional subtitle offset button
+  5. Additional media information displayed during paused playback
+- Minor bug fixes and improvements
+
+Version 100.0.30i
+- Fix minor bug causing  context menu to be positioned incorrectly.
+- Remove color formatting from status tag in full screen info window
+
 Version 100.0.30h
 - Fixed addon information formatting to prevent tags (e.g. [/B]) from appearing when add-on names, summaries, or descriptions already contained formatting
 - Added new Audio Language and Subtitle Language controls to the Video OSD, allowing quick cycling of available streams
