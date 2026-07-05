@@ -1,3 +1,9 @@
+Version 100.0.30k
+- Included 11 new colour themes and adjusted existing colours to provide better contrast between similar themes
+- Added color previews to the skin color preset selection dialog
+- Added separate fanart controls for widgets, category widgets, and add-on widgets
+- Added a setting to enable or disable the Home Search button
+
 Version 100.0.30j
 - Added some Video OSD customizations:
   1. Option to use the default Estuary Video OSD experience
