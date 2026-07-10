@@ -1,3 +1,9 @@
+Version 100.0.31
+- Improved top bar button alignment based on the number of enabled buttons
+- Added an optional InfoPanel for add-on and add-on category widgets
+- Added an option to hide the main menu while browsing widgets, allowing widgets to use the full screen width
+- Additional minor bug fixes and improvements
+
 Version 100.0.30k
 - Included 11 new colour themes and adjusted existing colours to provide better contrast between similar themes
 - Added color previews to the skin color preset selection dialog
