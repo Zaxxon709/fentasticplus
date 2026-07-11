@@ -1,3 +1,8 @@
+Version 100.0.31a
+- Fix Maintenance & Tools menu item enable/disable settings not applying correctly
+- Included a fallback rating to the media infoPanel when no MDBList API key is configured
+- Added Offcloud authorization shortcuts
+
 Version 100.0.31
 - Improved top bar button alignment based on the number of enabled buttons
 - Added an optional InfoPanel for add-on and add-on category widgets
