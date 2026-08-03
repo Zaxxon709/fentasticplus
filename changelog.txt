@@ -1,3 +1,9 @@
+Version 100.0.32a
+- Updated the Choose Path dialogs to support browsing network shares
+- Added a new FENtastic Dialogs option to the Choose Path dialogs
+- Added support for adding FENtastic dialogs to the Custom Top Bar Menu
+- Minor bug fixes and improvements
+
 Version 100.0.32
 - Added the ability to reorder main menu items
 - Added support for creating and managing main menu submenus
