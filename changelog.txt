@@ -1,3 +1,10 @@
+Version 100.0.33
+- Enhanced Look & Feel customization with independent background artwork, brightness controls, and color opacity options
+- Added Cinema Mode to the Look & Feel options, featuring a fullscreen, widget-focused Home layout with the standard main menu hidden
+- Added color preservation options to Look & Feel preset customization, allowing users to keep or reset their current artwork and color settings independently
+- Added support for importing and exporting GUI settings and favourites
+- Fixed a minor navigation issue affecting custom top bar menu items
+
 Version 100.0.32a
 - Updated the Choose Path dialogs to support browsing network shares
 - Added a new FENtastic Dialogs option to the Choose Path dialogs
