@@ -1,3 +1,7 @@
+Version 100.0.34
+- Refined the Estuary Look & Feel main menu
+- Fixed an incorrect Top Bar Overlay timer reference that could cause repeated skin timer errors
+
 Version 100.0.33
 - Enhanced Look & Feel customization with independent background artwork, brightness controls, and color opacity options
 - Added Cinema Mode to the Look & Feel options, featuring a fullscreen, widget-focused Home layout with the standard main menu hidden
