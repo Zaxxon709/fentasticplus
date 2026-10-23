@@ -1,3 +1,8 @@
+Version 100.0.35
+- Added new authorization dialogs for Simkl, MDBList, and PunchPlay.
+- Fixed an issue where switching from Cinema Mode to Classic FENtastic would leave the Cinema Mode home layout active.
+- Added a Cinema Mode setting to enable and select the default home section on startup.
+
 Version 100.0.34
 - Refined the Estuary Look & Feel main menu
 - Fixed an incorrect Top Bar Overlay timer reference that could cause repeated skin timer errors
